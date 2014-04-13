@@ -27,7 +27,7 @@ var start_assist = function() {
     ///////////////////////////////////////
 
     function get_analyst(cb) {
-      $.getScript(mt_url + '/src/analyst.js', cb)
+      $.getScript(mt_url + 'src/analyst.js', cb)
     }
 
     ///////////////////////////////////////
