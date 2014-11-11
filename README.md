@@ -28,13 +28,13 @@ This project is an extension to the Pathery website (www.pathery.com).  It does 
 
 If you can't or don't want to use Greasemonkey, use a bookmarklet.  That is, create a bookmark with the address:
 
-`javascript: $.getScript('https://raw.github.com/diziet/midnighttherapy/master/pathery-full.js')`
+`javascript: $.getScript('https://cdn.rawgit.com/diziet/midnighttherapy/master/pathery-full.js')`
 
 ### CONSOLE ###
 
 If all else fails, you can access the script by pasting
 
-`$.getScript('https://raw.github.com/diziet/midnighttherapy/master/pathery-full.js')`
+`$.getScript('https://cdn.rawgit.com/diziet/midnighttherapy/master/pathery-full.js')`
 
 into the Javascript console.
 
